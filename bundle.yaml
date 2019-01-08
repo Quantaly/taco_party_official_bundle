@@ -8,7 +8,7 @@ prompt_subscribe: false
 
 sprite_sets:
 - name: pokemon
-  display_name: Pokémon
+  display_name: Pok&#x00e9;mon
   url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/pokemon.json"
   color: "green"
 - name: minediamonds
