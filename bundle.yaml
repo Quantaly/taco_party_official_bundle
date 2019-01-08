@@ -1,0 +1,45 @@
+name: Official Bundle
+header_color: "black"
+header_background_color: "#ffff80"
+borders_color: "black"
+body_background_color: "#ffff80"
+
+prompt_subscribe: false
+
+sprite_sets:
+- name: pokemon
+  display_name: Pokémon
+  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/pokemon.json"
+  color: "green"
+- name: minediamonds
+  display_name: Minecraft Diamonds
+  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/minediamonds.json"
+  color: "limegreen"
+- name: energyihs
+  display_name: Energy Institute
+  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/energyihs.json"
+  color: "green"
+- name: tetris
+  display_name: Tetris
+  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/tetris.json"
+  color: "green"
+- name: monopocash
+  display_name: Monopoly Money
+  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/monopocash.json"
+  color: "green"
+- name: dartlang
+  display_name: Dart
+  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/dartlang.json"
+  color: "green"
+#- name: kotlin
+#  display_name: Kotlin
+#  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/kotlin.json"
+#  color: "green"
+- name: coins
+  display_name: Mario Coins
+  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/coins.json"
+  color: "limegreen"
+- name: hellokitty
+  display_name: Hello Kitty
+  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/hellokitty.json"
+  color: "green"
