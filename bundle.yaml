@@ -43,3 +43,7 @@ sprite_sets:
   display_name: Hello Kitty
   url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/hellokitty.json"
   color: "green"
+- name: cards
+  display_name: Playing Cards
+  url: "https://quantumassembly.github.io/taco_party_official_bundle/sprite_sets/cards.json"
+  color: "green"
