@@ -26,7 +26,7 @@ void main() {
     maxAngularVelocity: 3,
     name: "Cards!",
     images: genImages(
-        "https://quantumassembly.github.io/taco_party_official_bundle/assets/images/card_",
+        "https://quantaly.github.io/taco_party_official_bundle/assets/images/card_",
         genSuffixes(),
         getWidth: ret(173),
         getHeight: ret(264)),

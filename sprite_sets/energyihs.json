@@ -8,13 +8,13 @@
     "name": "Energy!",
     "images": [
       {
-        "src": "https://quantumassembly.github.io/taco_party_official_bundle/assets/images/energy_windmill.png"
+        "src": "https://quantaly.github.io/taco_party_official_bundle/assets/images/energy_windmill.png"
       },
       {
-        "src": "https://quantumassembly.github.io/taco_party_official_bundle/assets/images/energy_platform.png"
+        "src": "https://quantaly.github.io/taco_party_official_bundle/assets/images/energy_platform.png"
       },
       {
-        "src": "https://quantumassembly.github.io/taco_party_official_bundle/assets/images/energy_gears.png"
+        "src": "https://quantaly.github.io/taco_party_official_bundle/assets/images/energy_gears.png"
       }
     ],
     "textColor": [255, 142, 28],
